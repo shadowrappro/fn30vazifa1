@@ -1,0 +1,1 @@
+# 4 oy 7 dars vazifasining 4 - masalasi
