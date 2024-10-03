@@ -18,3 +18,5 @@ try:
 
 except FileNotFoundError:
     print(f"{fayl_nomi} fayli topilmadi.")
+
+# qo'shish muvaffaqiyatli amalga oshirildi
